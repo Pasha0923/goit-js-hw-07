@@ -9,5 +9,3 @@ textInput.addEventListener("input", (event) => {
     output.textContent = `Anonymous`;
   }
 });
-// if (textInput === "") {
-//   output.textContent = `Anonymous`;
